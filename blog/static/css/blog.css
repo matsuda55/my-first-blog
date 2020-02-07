@@ -23,13 +23,16 @@ h2, h3, h4 {
     font-family: 'Gloria+Hallelujah', cursive;
 }
 
-.date {
-    color: #828282;
-}
 
-.save {
+.save,  .btn-default {
     float: right;
 }
+
+.date {
+    color: #828282;
+     float: right;
+}
+
 
 .post-form textarea, .post-form input {
     width: 100%;
